@@ -1,1 +1,4 @@
-Hola, soy Alberto, he estudiado Ingeniería de Telecomunicación e Ingeniería de Informática de Sistemas, y me gustan muchas cosas.
+<nombre>Alberto</nombre>
+<edad>23</edad>
+<carrera>Ingeniería Teleco + ITIS</carrera>
+<ocio>Muchas cosas</ocio>
